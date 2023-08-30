@@ -1,6 +1,7 @@
 *{
 	margin:0px;
 	padding:0px;
+	margin-left: 50px;
 	
 }
 
@@ -10,11 +11,13 @@
 }
 body{
 background-color:#9de6e8;
-margin-left:150px;
 margin-top: 20px;
 font-family: Courier, monospace;
-margin-right:150px;
-
+margin-right:250px;
+margin-left: 250px;
+border:2px solid;
+border-radius:10px;
+border-color: aquamarine;
 }
 
 p{
@@ -35,8 +38,8 @@ textarea{
 	background-color:azure;
 	border: 0cap;
 	border-radius:5px ;
-	width: 500px;
-	height: 50px;
+	width: 800px;
+	height: 100px;
 	font-weight:bold;
 
 }
